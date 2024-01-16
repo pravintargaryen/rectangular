@@ -10,7 +10,7 @@ Welcome to Rectangular V1.0 - your React & Angular Companion and built with Reac
 
 ## Demo
 
-Demo app at [Netlify]([https://c-ai.netlify.app/](https://rectangularjs.netlify.app/)
+Demo app at [Netlify](https://rectangularjs.netlify.app/)
 
 ## V2.0 Features Planned
 
