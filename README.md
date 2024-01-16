@@ -1,19 +1,22 @@
 # Overview
 
-Welcome to Rectangular - your React & Angular Companion and built with React ❤️
+Welcome to Rectangular V1.0 - your React & Angular Companion and built with React ❤️
 
-## Improvements Needed
-
-Prompting with input code
-Long Prompts
+![Logo](https://cdn-langchain.netlify.app/rectangular.png)
 
 ## Screenshot
 
-![screenshot](https://cdn-langchain.netlify.app/2.png)
+![screenshot](https://cdn-langchain.netlify.app/1.png)
 
 ## Demo
 
-Demo app at [Netlify](https://c-ai.netlify.app/)
+Demo app at [Netlify]([https://c-ai.netlify.app/](https://rectangularjs.netlify.app/)
+
+## V2.0 Features Planned
+
+Prompting with input code examples
+Long Prompts
+Response Code Linting and Beautification
 
 ## Contributions
 
