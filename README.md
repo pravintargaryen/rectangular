@@ -14,9 +14,9 @@ Demo app at [Netlify](https://rectangularjs.netlify.app/)
 
 ## V2.0 Features Planned
 
-Prompting with input code examples
-Long Prompts
-Response Code Linting and Beautification
+- Prompting with input code examples
+- Long Prompts
+- Response Code Linting and Beautification
 
 ## Contributions
 
